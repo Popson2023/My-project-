@@ -19,7 +19,6 @@ This project was done to help identify customer preferences, popular toppings, a
 ![Screenshot (78)](https://github.com/Popson2023/My-project-/assets/141573774/bee22bfe-79bd-49c9-98d3-103af0814fe2)
  
 
-
 ## Insights and recommendations 
 
 * From the above visualization we can see that the pizza store has 16.82k average revenue and to increase this revenue i believe the following measure should be put in place: Upselling and Cross-selling, Bundling,Loyalty Programs, Tiered Pricing, Limited-time Offers, Product Quality and Innovation, Add-On Services,Feedback and Surveys, Partnerships,Customer Support and sales training.
