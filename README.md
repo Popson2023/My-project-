@@ -16,7 +16,8 @@ This project was done to help identify customer preferences, popular toppings, a
 
 ## Visualization using power bi
 
-![Screenshot (60)](https://github.com/olqkunle/olqkunle-powerbi-project/assets/84230867/ac505937-5810-4021-aa7b-9994ca944e51) 
+![Screenshot (78)](https://github.com/Popson2023/My-project-/assets/141573774/bee22bfe-79bd-49c9-98d3-103af0814fe2)
+ 
 
 
 ## Insights and recommendations 
